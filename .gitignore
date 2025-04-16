@@ -1,0 +1,7 @@
+checkpoints/
+*.zip
+*.pt
+__pycache__/
+*.pyc
+.env/
+mujoco-env/
